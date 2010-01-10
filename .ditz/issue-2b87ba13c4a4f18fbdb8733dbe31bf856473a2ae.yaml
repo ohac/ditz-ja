@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: "テスト"
+desc: ""
+type: :task
+component: ditz-ja
+release: 
+reporter: OHASHI Hideya <ohachige@gmail.com>
+status: :unstarted
+disposition: 
+creation_time: 2010-01-10 09:33:40.605337 Z
+references: []
+
+id: 2b87ba13c4a4f18fbdb8733dbe31bf856473a2ae
+log_events: 
+- - 2010-01-10 09:33:40.605608 Z
+  - OHASHI Hideya <ohachige@gmail.com>
+  - created
+  - ""
